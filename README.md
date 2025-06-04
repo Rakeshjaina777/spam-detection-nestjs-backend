@@ -12,7 +12,7 @@ A production-grade backend system similar to Truecaller. Built using **NestJS** 
 | Database      | PostgreSQL                      |
 | ORM           | Prisma                          |
 | Auth          | JWT (Passport)                  |
-| Validation    | `class-validator` in DTOs       |
+| Validation    | `Class-validator` in DTOs       |
 | API Docs      | Swagger (`@nestjs/swagger`)     |
 | Architecture  | Clean, modular, SOLID-principled|
 
