@@ -139,7 +139,8 @@ npm run start:dev
 
 ## 👨‍💻 Author
 
-**Rakesh Jain**  
+**Rakesh Jain**
+**9021633960**
 Backend Developer | NestJS | Prisma | PostgreSQL  
 📧 [Rakeshjain](mailto:rakeshjaina777@gmail.com)  
 📞 +91-9021633960  
